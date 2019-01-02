@@ -1,9 +1,8 @@
 [package]
-name = "median2d"
+name = "imgfilters"
 version = "0.1.0"
 authors = ["ryn1x <ryn1x@tutanota.com>"]
 edition = "2018"
 
 [dependencies]
-rand = "0.6.1"
 tiny_tiff = "0.3.0"
