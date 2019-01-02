@@ -1,7 +1,7 @@
-extern crate imgfilters;
+extern crate img_filters;
 extern crate tiny_tiff;
 
-use imgfilters::median2d;
+use img_filters::median2d;
 use tiny_tiff::reader;
 use tiny_tiff::writer;
 

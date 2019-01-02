@@ -1,5 +1,5 @@
 [package]
-name = "imgfilters"
+name = "img_filters"
 version = "0.1.0"
 authors = ["ryn1x <ryn1x@tutanota.com>"]
 edition = "2018"
